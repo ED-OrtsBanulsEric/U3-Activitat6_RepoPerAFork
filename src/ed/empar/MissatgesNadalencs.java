@@ -107,7 +107,9 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC2() {
-
+		System.out.println("Hola, soc Eric");
+        	System.out.println("Y m'agradaria desitgarvos un FELIÇ ANY NOU");
+		System.out.println();
 	}
 
 	private static void AlumneFila1PC3() {
